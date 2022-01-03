@@ -1,10 +1,17 @@
 <!DOCTYPE html>
 <html>
+        <HEAD>
 <title>HTML Tutorial</title>
 <body>
 
 <h1>This is a heading</h1>
-<p>This is a paragraph.</p>
 
+<title>BranchA</title>
+
+
+<h1>This is my f1 file in BranchA</h1>
+
+<p>This is a paragraph.</p>
+         </HEAD>
 </body>
 </html>
